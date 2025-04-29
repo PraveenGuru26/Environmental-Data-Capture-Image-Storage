@@ -90,7 +90,7 @@ Contributions are welcome! If you would like to contribute, please follow the st
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For any inquiries, please reach out to me at [email@example.com](mailto:email@example.com).
+For any inquiries, please reach out to me at [email@example.com](mailto:gurupraveen47@gmail.com).
 
 ---
 
